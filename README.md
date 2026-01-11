@@ -10,7 +10,7 @@ An advanced music genre classification system using deep learning and audio sign
 - **Real-time Prediction**: Classify any audio file instantly
 - **Performance Metrics**: Detailed evaluation with confusion matrices
 - **Model Persistence**: Save and load trained models
--------------------------
+--------
 ## Supported Genres
 - Blues
 - Classical
