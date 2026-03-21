@@ -26,7 +26,7 @@ An advanced music genre classification system using deep learning and audio sign
 *Can be extended to support any number of genres*
 
 ## Requirements
-```
+`````
 tensorflow>=2.13.0
 librosa>=0.10.0
 numpy>=1.21.0
