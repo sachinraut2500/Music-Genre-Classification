@@ -2,7 +2,7 @@
 
 ## Overview
 An advanced music genre classification system using deep learning and audio signal processing. The system can classify music into different genres using both traditional audio features and deep learning approaches with spectrograms. Features comprehensive audio analysis, visualization, and real-time prediction capabilities.
-
+----
 ## Features
 - **Multiple Approaches**: Traditional ML, CNN with spectrograms, RNN for sequences
 - **Comprehensive Feature Extraction**: MFCC, Chroma, Spectral features, Tonnetz
